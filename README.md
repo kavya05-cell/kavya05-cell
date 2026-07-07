@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on end-to-end ML projects and strengthening DSA foundations.<br>🤝 I’m looking to collaborate on AI/ML and data-driven product development.<br>🛠  I’m looking for help with scaling ML models and system design.<br>🌱 I’m currently learning advanced machine learning, model optimization, and backend integration.<br>💬 Ask me about Python, DSA, ML fundamentals, and project structuring.<br>⚡ Fun fact: I don't compete with people, I compete with my previous version.
+🔭 I’m currently working on end-to-end ML projects and strengthening DSA foundations.<br>🤝 I’m looking to collaborate on AI/ML and data-driven product development.<br>🛠  I’m looking for help with scaling ML models and system design.<br>🌱 I’m currently learning advanced machine learning, model optimization, and backend integration.<br>💬 Ask me about Python, DSA, ML fundamentals, and project structuring.<br>⚡ Fun fact: I don't compete with people; I compete with my previous version.
 
 
 ## 🌐 Socials:
